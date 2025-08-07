@@ -1,2 +1,2 @@
 .env
-maven.yml
+.github\workflows\maven.yml
